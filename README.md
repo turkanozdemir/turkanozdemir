@@ -4,7 +4,7 @@
 I’m a computer engineering double major student at YTU, who graduated from mathematical engineering.<br>I’m interested in Full Stack Software Development<br>My goal is to increase my capabilities in Backend Development and Frontend Development.<br>You can contact me via my LinkedIn profile or my email (ozdemirturkannn@gmail.com)<br>
 
 
-## 🌐 Socials:
+## 🌐 Contancs:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkanozdemir) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ozdemirturkannn)
 
@@ -35,4 +35,4 @@ I’m a computer engineering double major student at YTU, who graduated from mat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=turkanozdemir&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=turkanozdemir&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=turkanozdemir&icon=0&color=1)](https://visitcount.itsvg.in)
