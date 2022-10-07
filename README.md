@@ -6,6 +6,7 @@ I’m a computer engineering double major student at YTU, who graduated from mat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkanozdemir) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white](ozdemirturkann@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ozdemirturkannn)
 
 ## 💻 Tech Stack:
