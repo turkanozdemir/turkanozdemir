@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-I’m a computer engineering double major student at YTU, who graduated from mathematical engineering.<br>I’m interested in Full Stack Software Development<br>My goal is to increase my capabilities in Backend Development and Frontend Development.<br>You can contact me via my LinkedIn profile or my email (ozdemirturkannn@gmail.com)<br>
+I’m a computer engineering double major student at YTU, who graduated from mathematical engineering with GPA 3.52/4.00 as a high honor student.<br>I’m interested in Full Stack Software Development<br>My goal is to increase my capabilities in Backend Development and Frontend Development.<br>You can contact me via my LinkedIn profile or my email (ozdemirturkannn@gmail.com)<br>
 
 ## 🌐 Contancs:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkanozdemir) 
